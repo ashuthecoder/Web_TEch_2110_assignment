@@ -1,0 +1,24 @@
+body{
+    background-color: blue;
+}
+
+#image {
+    
+    width: 2px;
+   height: 2px;
+}
+
+#button {
+    margin: 200px;
+    size: 300px;
+}
+
+#image-container {
+    position: relative;
+    width: 100%;
+    height: 300px;
+}
+
+.dupe-image {
+    position: absolute;
+}
